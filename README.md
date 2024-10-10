@@ -3,7 +3,7 @@
 # Dependency Injection (DI) Örneği - DIPratik
 Bu proje, C# dilinde Dependency Injection kullanarak bir sınıf yapısı oluşturmayı amaçlayan basit bir örnektir. Projede bir öğretmen (Teacher) sınıfı, öğretmenle ilgili bilgileri barındıran bir arayüz (ITeacher) ve öğretmenin bulunduğu bir sınıf (ClassRoom) bulunmaktadır.
 
-#Proje Özeti
+# Proje Özeti
 Bu proje, Dependency Injection (Bağımlılık Enjeksiyonu) prensibine dayalı olarak geliştirilmiştir. ITeacher arayüzü kullanılarak, Teacher sınıfı bağımsız bir şekilde enjekte edilmiştir. Bu yöntemle, sınıflar arasındaki bağlılık azaltılarak esneklik sağlanmıştır.
 
 # Kullanılan Sınıflar:
